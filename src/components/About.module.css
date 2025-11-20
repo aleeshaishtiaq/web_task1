@@ -1,0 +1,19 @@
+.about {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 10%;
+    gap: 30px;
+}
+
+.text {
+    flex: 1 1 300px;
+}
+
+.image img {
+    width: 100%;
+    max-width: 250px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}

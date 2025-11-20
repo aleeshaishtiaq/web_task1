@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Pastel Aesthetics",
+        "desc": "Soft pastel shades are ruling fashion this season.",
+        "img": "pastels.webp"
+    },
+    {
+        "id": 2,
+        "title": "Oversized Comfort",
+        "desc": "Loose & comfy outfits are becoming the new normal.",
+        "img": "baggy.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Retro Vibes",
+        "desc": "90s retro-inspired looks are making a huge comeback.",
+        "img": "retro.webp"
+    }
+]

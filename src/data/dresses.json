@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Pink Floral Maxi",
+        "price": 4500,
+        "image": "dress1.webp"
+    },
+    {
+        "id": 2,
+        "title": "Black Party Dress",
+        "price": 5800,
+        "image": "black.webp"
+    },
+    {
+        "id": 3,
+        "title": "Red Summer Dress",
+        "price": 3800,
+        "image": "red.webp"
+    },
+    {
+        "id": 4,
+        "title": "Brown Dress",
+        "price": 5200,
+        "image": "brown.webp"
+    },
+    {
+        "id": 5,
+        "title": "Blue Dress",
+        "price": 4900,
+        "image": "blue.jpg"
+    },
+    {
+        "id": 6,
+        "title": "White Top",
+        "price": 8500,
+        "image": "white.webp"
+    },
+    {
+        "id": 7,
+        "title": "Vintage Dress",
+        "price": 4200,
+        "image": "vin.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Green Dress",
+        "price": 7200,
+        "image": "g.jpg"
+    }
+]
